@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&display=swap');
+
+*{
+   background-color: rgb(168, 173, 173); 
+   font-family: 'Roboto Condensed', sans-serif;
+}
+.texto-inicial{
+    padding: 2%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Logotype{
+    height: 200px;
+}
+
+.Living-desing-Banner{
+    width: 100%;
+    text-align: center;
+}
