@@ -17,5 +17,18 @@
 
 .Living-desing-Banner{
     width: 100%;
+    height: auto;
     text-align: center;
 }
+ .bienvenida {
+    width: 400px;
+    text-align: center;
+ }
+
+ .texto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+ }
