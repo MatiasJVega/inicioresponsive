@@ -8,8 +8,9 @@
 .texto-inicial{
     padding: 10px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
+    color: rgb(12, 12, 12);
 }
 
 .Logotype{

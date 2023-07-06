@@ -7,14 +7,15 @@
 }
 
 .galeria .img-container img {
-   width: 100%;
+   width: 350px;
    height: auto;
-   border-radius: 5px;
+   border-radius: 10px;
 }
 
 .galeria .img-container {
     width: 100%;
     display: flex;
+    justify-content: center;
     align-items: stretch;
     flex-direction: row;
     gap: 5px;
